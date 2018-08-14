@@ -1,0 +1,8 @@
+cd
+git clone<"url">
+git status
+git add -A
+git commit -m" msg"
+git push -u origin master
+git config --global username.name<sanchit>
+git config --global email.id<sanchitchhabra3@gmail.com>
